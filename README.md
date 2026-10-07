@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=2000&color=FF3366&center=true&vCenter=true&width=450&lines=Hello+World!" alt="Hello World!">
 </div>
 
----
+
 
 <!-- Biểu đồ Pac-Man -->
 <picture data-importer="pacman">
