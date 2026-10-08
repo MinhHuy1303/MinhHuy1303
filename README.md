@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=2000&pause=2000&color=FF3366&center=true&vCenter=true&width=550&lines=Hello+Welcome+My+Git" alt="Hello Welcome My Git">
 </div>
 
----
+
 
 <!-- Biểu đồ Pac-Man -->
 <picture data-importer="pacman">
@@ -27,7 +27,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&rotate=180&stroke=-&strokeWidth=0&animation=twinking&color=gradient" width="100%" />
 </p>
 
----
+
 
 # 💻 Tech Stack
 
